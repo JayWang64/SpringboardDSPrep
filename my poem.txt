@@ -1,4 +1,8 @@
 this is my poem
 
 poem
+green
+yellow
+blue
+red
 colors of the rainbow
